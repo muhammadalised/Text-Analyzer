@@ -1,0 +1,148 @@
+
+THIS REPORT WAS CREATED BY TEXT ANALYZER
+LINE COUNT: 11
+WORDS COUNT: 163
+UNIQUE WORDS COUNT: 97
+----------------------------------------------------
+UNIQUE WORDS
+
+its
+governments
+opinions
+any
+liberty
+be
+impel
+men
+bands
+effect
+right
+just
+entitle
+laying
+respect
+a
+people
+we
+truths
+or
+assume
+life
+from
+station
+these
+to
+such
+separate
+it
+alter
+principles
+creator
+declare
+are
+foundation
+endowed
+laws
+causes
+rights
+another
+they
+requires
+government
+new
+powers
+connected
+hold
+organizing
+should
+ends
+in
+nature
+evident
+on
+all
+that
+governed
+as
+seem
+separation
+destructive
+consent
+created
+equal
+their
+happiness
+likely
+deriving
+pursuit
+whenever
+most
+among
+shall
+decent
+unalienable
+and
+nature's
+safety
+earth
+have
+instituted
+certain
+abolish
+becomes
+the
+which
+of
+god
+secure
+is
+by
+them
+with
+mankind
+self
+form
+institute
+----------------------------------------------------
+FREQUENT WORDS
+
+WORDS ----- NO OF TIMES IT OCCUR
+to ----- 11
+of ----- 9
+and ----- 7
+that ----- 6
+these ----- 4
+them ----- 4
+are ----- 4
+which ----- 3
+their ----- 3
+powers ----- 3
+----------------------------------------------------
+CHARACTER PERCENTAGES
+
+a ----- 5.76%
+b ----- 0.72%
+c ----- 1.95%
+d ----- 2.57%
+e ----- 11.61%
+f ----- 1.75%
+g ----- 1.13%
+h ----- 5.45%
+i ----- 4.93%
+j ----- 0.1%
+k ----- 0.21%
+l ----- 2.16%
+m ----- 2.06%
+n ----- 5.65%
+o ----- 5.55%
+p ----- 1.64%
+q ----- 0.31%
+r ----- 4.42%
+s ----- 5.14%
+t ----- 9.66%
+u ----- 2.06%
+v ----- 0.92%
+w ----- 1.23%
+x ----- 0.0%
+y ----- 0.82%
+z ----- 0.1%
